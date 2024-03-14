@@ -1,3 +1,6 @@
 fries
 popcorn
 hotdog
+1
+2
+3
